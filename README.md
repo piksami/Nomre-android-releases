@@ -10,6 +10,16 @@
 
 Log what you learnt today. Nomre tells you what to review each day using the **2-3-5-7 method**: review a lesson **2 days** after you learn it, then **3**, **5** and **7 days** after each previous review. Tap **Reviewed**, and the next review is scheduled for you. After four reviews the lesson moves to **Done**.
 
+## Features
+
+- **Today's review**: only what is due, with a progress bar.
+- **Log a lesson in seconds**: subject, where you read it (book, study notes, papers or your own), pages and an optional description.
+- **Sources**: the same pages from two different places stay two separate lessons. Add, rename or delete sources in Settings.
+- **Library**: search and filter by subject, source, page, date or progress, and change many lessons at once.
+- **Share lessons** with friends as a small file. Their missing subjects and sources are added for them.
+- **Farsi and English**, six themes, and an optional second calendar (Persian and more).
+- **Private**: everything stays on your phone.
+
 ## Install
 
 Android 8.0 or newer.
