@@ -17,7 +17,8 @@ Log what you learnt today. Nomre tells you what to review each day using the **2
 - **Sources**: the same pages from two different places stay two separate lessons. Add, rename or delete sources in Settings.
 - **Library**: search and filter by subject, source, page, date or progress, and change many lessons at once.
 - **Share lessons** with friends as a small file. Their missing subjects and sources are added for them.
-- **Farsi and English**, six themes, and an optional second calendar (Persian and more).
+- **Eight themes, each in light and dark**, with Auto (follows your phone) or Dark at night.
+- **Farsi and English**, and an optional second calendar (Persian and more). Lists and dates open in the app's own style, not grey system pop-ups.
 - **Private**: everything stays on your phone.
 
 ## Install
