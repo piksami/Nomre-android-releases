@@ -18,7 +18,7 @@ Log what you learnt today. Nomre tells you what to review each day using the **2
 - **Library**: search and filter by subject, source, page, date or progress, and change many lessons at once.
 - **Share lessons** with friends as a small file. Their missing subjects and sources are added for them.
 - **Eight themes, each in light and dark**, with Auto (follows your phone) or Dark at night.
-- **Farsi and English**, and an optional second calendar (Persian and more). Lists and dates open in the app's own style, not grey system pop-ups.
+- **Farsi and English**, and an optional second calendar (Persian and more).
 - **Private**: everything stays on your phone.
 
 ## Install
@@ -41,4 +41,4 @@ On one device, open **Settings > Share lessons > Export lessons**, turn on **Inc
 
 Everything is stored only on your phone. There is no account and nothing is sent anywhere. Uninstalling the app removes your lessons, so export a file first if you want a copy.
 
-The Android and Windows apps have their own version numbers and their own releases.
+You can read the full [privacy policy](PRIVACY.md).
